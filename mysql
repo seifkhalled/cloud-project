@@ -1,0 +1,6 @@
+-- Active: 1714157342584@@127.0.0.1@3306@cloudproject
+-- INSERT INTO team (student_id, name, age, cgpa) VALUES
+--     (22010100, 'Ahmed', 20, 3.6)
+--     ;
+
+SELECT * from team;
